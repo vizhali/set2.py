@@ -5,4 +5,4 @@ for v in range(AA+1,vad,1):
             if(v%n==0):
                 break
         else:
-            print(v,end=" ")
+            print(v,end =" ")
