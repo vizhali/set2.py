@@ -1,3 +1,3 @@
 viz=int(input())
-ziv=list(map(int,input().split()))
-print(min(ziv))
+ak=list(map(int,input().split()))
+print(min(ak))
