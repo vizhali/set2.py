@@ -1,3 +1,3 @@
-vaa=int(input())
-xz=list(map(int,input().split()[:vaa]))
-print(max(xz))
+rww=int(input())
+pk=list(map(int,input().split()[:rww]))
+print(max(pk))
