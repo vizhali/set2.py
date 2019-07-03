@@ -1,4 +1,4 @@
- vizhal=input()
+vizhal=input()
 if vizhal.isdigit():
  print("yes")
 else:
