@@ -1,5 +1,5 @@
-z=int(input())
+vizh=int(input())
 p=list(map(int,input().split()))
-for k in range(z):
+for k in range(vizh):
  print(p[k],k)
 
