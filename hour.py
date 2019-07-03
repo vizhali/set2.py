@@ -1,3 +1,4 @@
-minute=int(input(""))
-hour=minute
-print(hour//60,min%60)
+minu=int(input(""))
+hour=minu
+print(hour//60,minu%60)   
+
