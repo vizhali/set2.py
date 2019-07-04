@@ -1,5 +1,5 @@
 k,a=map(int,input().split())
 z,f=map(int,input().split())
 w=abs(k-z)
-y=abs(a-f)
-print(w,y)
+p=abs(a-f)
+print(w,p)
